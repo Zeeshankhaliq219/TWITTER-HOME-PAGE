@@ -1,0 +1,8 @@
+input:focus{
+    outline: none;
+}
+div.right_side_bar{
+    position: fixed;
+    right: 30px;
+    top: 10px;
+}
